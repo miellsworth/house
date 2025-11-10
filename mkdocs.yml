@@ -1,0 +1,4 @@
+site_name: House
+theme:
+  site_url: https://miellsworth.github.io/house/
+  name: material
